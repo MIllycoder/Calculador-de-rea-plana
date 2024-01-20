@@ -53,5 +53,6 @@ if res==4:
   dn=int(input("digite a diagonal menor:"))
   e=0
   e=dm*dn/2
-  print('Aqui está sua answer bby!',e)
+  print('Aqui está sua resposta:',e)
 #Código da Jamilly!
+  
