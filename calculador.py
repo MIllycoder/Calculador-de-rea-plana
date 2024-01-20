@@ -30,6 +30,7 @@ if res==1:
 
   
 if res==2:
+ 
   print("você escolheu o retangulo!")
   h=int(input("Digite a altura:"))
   b=int(input("digite a base:"))
@@ -52,5 +53,5 @@ if res==4:
   dn=int(input("digite a diagonal menor:"))
   e=0
   e=dm*dn/2
-  print('Aqui está sua respota',e)
+  print('Aqui está sua answer bby!',e)
 #Código da Jamilly!
